@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "easy-parking-native",
+    "slug": "easy-parking-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
